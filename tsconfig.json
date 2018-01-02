@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "sourceMap": true,
+    "allowJs": true
+  },
+  "include": [
+    "./handler.ts"
+  ]
+}
