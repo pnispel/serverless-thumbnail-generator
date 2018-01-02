@@ -1,3 +1,3 @@
 # lambda-thumbnail-generator
 
-An example of building an api to generate lambda thumbnails on the fly
+Use Serverless + Lambda + API Gateway to generate thumbnails on the fly
